@@ -1,9 +1,154 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "products": [
+    {
+      "id": "6",
+      "name": "Product 6",
+      "price": 22.5,
+      "isDiscounted": true
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "price": 35,
+      "isDiscounted": false
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 9.99,
+      "isDiscounted": true
+    },
+    {
+      "id": "9",
+      "name": "Product 9",
+      "price": 55,
+      "isDiscounted": false
+    },
+    {
+      "id": "10",
+      "name": "Product 10",
+      "price": 75,
+      "isDiscounted": true
+    },
+    {
+      "id": "11",
+      "name": "Product 11",
+      "price": 60,
+      "isDiscounted": false
+    },
+    {
+      "id": "14",
+      "name": "Product 14",
+      "price": 120,
+      "isDiscounted": true
+    },
+    {
+      "id": "15",
+      "name": "Product 15",
+      "price": 89.99,
+      "isDiscounted": false
+    },
+    {
+      "id": "16",
+      "name": "Product 16",
+      "price": 28.99,
+      "isDiscounted": true
+    },
+    {
+      "id": "17",
+      "name": "Product 17",
+      "price": 18.99,
+      "isDiscounted": false
+    },
+    {
+      "id": "18",
+      "name": "Product 18",
+      "price": 68.5,
+      "isDiscounted": true
+    },
+    {
+      "id": "19",
+      "name": "Product 19",
+      "price": 72.99,
+      "isDiscounted": false
+    },
+    {
+      "id": "20",
+      "name": "Product 20",
+      "price": 88,
+      "isDiscounted": true
+    },
+    {
+      "id": "21",
+      "name": "Product 21",
+      "price": 95,
+      "isDiscounted": false
+    },
+    {
+      "id": "22",
+      "name": "Product 22",
+      "price": 85,
+      "isDiscounted": true
+    },
+    {
+      "id": "23",
+      "name": "Product 23",
+      "price": 29.99,
+      "isDiscounted": false
+    },
+    {
+      "id": "24",
+      "name": "Product 24",
+      "price": 45.5,
+      "isDiscounted": true
+    },
+    {
+      "id": "25",
+      "name": "Product 25",
+      "price": 110,
+      "isDiscounted": false
+    },
+    {
+      "id": "26",
+      "name": "Product 26",
+      "price": 14.99,
+      "isDiscounted": true
+    },
+    {
+      "id": "27",
+      "name": "Product 27",
+      "price": 80,
+      "isDiscounted": false
+    },
+    {
+      "id": "28",
+      "name": "Product 28",
+      "price": 65,
+      "isDiscounted": true
+    },
+    {
+      "id": "29",
+      "name": "Product 29",
+      "price": 50,
+      "isDiscounted": false
+    },
+    {
+      "id": "30",
+      "name": "Product 30",
+      "price": 37.99,
+      "isDiscounted": true
+    },
+    {
+      "id": "d0b2",
+      "name": "nokia",
+      "price": "23",
+      "isDiscounted": true
+    },
+    {
+      "id": "006f",
+      "name": "Xiaomi",
+      "price": "344",
+      "isDiscounted": false
+    }
+  ]
 }
